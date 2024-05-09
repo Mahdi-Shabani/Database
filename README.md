@@ -1,4 +1,4 @@
-##Sqlite
+#Sqlite
 
 #Small database project using Python:
 In this project, I created a class named employee
